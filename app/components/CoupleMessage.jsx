@@ -66,11 +66,11 @@ export default function CoupleMessage() {
               </SwiperSlide>
 
               <SwiperSlide>
-                <img src="/image3.png" />
+                <img src="https://res.cloudinary.com/dx2di0mvx/image/upload/v1773723233/Image3_wntz2h.png" />
               </SwiperSlide>
 
               <SwiperSlide>
-                <img src="/image4.png" />
+                <img src="https://res.cloudinary.com/dx2di0mvx/image/upload/v1773723242/Image4_u4mg9j.webp" />
               </SwiperSlide>
 
               <SwiperSlide>
@@ -82,11 +82,11 @@ export default function CoupleMessage() {
               </SwiperSlide>
 
               <SwiperSlide>
-                <img src="/image3.png" />
+                <img src="https://res.cloudinary.com/dx2di0mvx/image/upload/v1773723233/Image3_wntz2h.png" />
               </SwiperSlide>
 
               <SwiperSlide>
-                <img src="/image4.png" />
+                <img src="https://res.cloudinary.com/dx2di0mvx/image/upload/v1773723242/Image4_u4mg9j.webp" />
               </SwiperSlide>
             </Swiper>
           </div>
