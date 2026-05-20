@@ -260,7 +260,7 @@ export default function Home() {
               <br /> Late Smt. Kamla Kapoor
             </h2> */}
 
-            {/* <hr className="lg:w-24 w-16 border-white my-4" /> */}
+          
 
             <h2 className="text-white font-Cormorant-upright lg:text-[34px] md:text-2xl text-[26px]">
               The Bhawnani Family
