@@ -241,10 +241,10 @@ export default function Home() {
         <div className=" md:pt-24 pt-4 md:pb-50 lg:pb-60 relative z-10 pb-24">
           <h2 className="text-[#15528A]  text-center leading-tight text-[32px] sm:text-5xl lg:text-[100px] md:pb-370 pb-0 flex flex-col items-center gap-y-2 ">
             <span className="font-parisienne [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)] font-extrabold">
-              Rohan Kharbanda
+              Devna Chawla
             </span>
             <span className="text-[12px] sm:text-3xl tracking-[10px] font-cormorant [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)]">WEDS</span>
-            <span className="font-parisienne [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)]">Devna Chawla</span>
+            <span className="font-parisienne [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)]">Rohan Kharbanda</span>
             {/* <p className="font-Cormorant-upright lg:text-4xl md:text-2xl text-[20px] font-bold md:mt-4">
               #RoSaysIDee
             </p> */}
@@ -268,13 +268,13 @@ export default function Home() {
 
             <h2 className="text-white lg:text-[30px] md:text-2xl text-[20px] font-Cormorant-upright">
               With the joyful hearts and blessings from
-              <br /> <b>Late Smt. Jatto bai & Shri Sidhu Ram k</b>
+              <br /> <b>Smt. Krishna chawla & Shri Rishi lal chawla</b>
             </h2>
 
 
 
             <h2 className="text-white font-Cormorant-upright lg:text-[34px] md:text-2xl text-[26px]">
-              The Kharbanda Family
+              The Chawla Family
             </h2>
           </div>
 
@@ -292,13 +292,13 @@ export default function Home() {
 
             <h2 className="text-white font-Cormorant-upright text-center mt-14
             md:text-5xl text-[50px] lg:text-[100px] leading-tight font-bold">
-              Rohan Kharbanda
+              Devna Chawla
             </h2>
 
 
-            <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl mt-2 text-[16px]">
-            <b> (Grandson of Late Smt. Jatto bai & Shri Sidhu Ram k)</b> 
-              <br />(Son of Mrs. Raj kharbanda & Mr. Ashok Kharbanda)
+            <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl text-[16px] mt-2">
+             <b>(Granddaughter of Smt. Krishna chawla & Shri Rishi lal chawla)</b>  <br />
+              (Daughter of Mrs. Alka Chawla & Late kaushal chawla)
             </p>
 
 
@@ -308,12 +308,13 @@ export default function Home() {
             text-[50px] sm:text-7xl lg:text-[100px] leading-tight font-bold">
               <span className="text-white font-Cormorant-upright text-center lg:mt-10 mt-4 
             md:text-5xl text-[82px] lg:text-[150px] leading-tight">&</span>   <br />
-              Devna Chawla
+              Rohan Kharbanda
             </h2>
 
-            <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl text-[16px] mt-2">
-             <b>(Granddaughter of Smt. Krishna chawla & Shri Rishi lal chawla)</b>  <br />
-              (Daughter of Mrs. Alka Chawla & Late kaushal chawla)
+            
+             <p className="text-white font-Cormorant-upright lg:text-[30px] md:text-2xl mt-2 text-[16px]">
+            <b> (Grandson of Late Smt. Jatto bai & Shri Sidhu Ram k)</b> 
+              <br />(Son of Mrs. Raj kharbanda & Mr. Ashok Kharbanda)
             </p>
 
             <p className="text-white font-Cormorant-upright lg:text-3xl md:text-2xl text-[24px] mt-8">

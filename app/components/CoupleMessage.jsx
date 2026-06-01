@@ -11,7 +11,7 @@ export default function CoupleMessage() {
   return (
     <>
       <div className="md:bg-[url('/assets/couple_bg.jpg')] bg-[url('/assets/couple_mobilebgnrohan.jpg')] bg-cover bg-no-repeat">
-        <div className="lg:h-850 md:h-550 h-710 pt-2 flex flex-col  items-center">
+        <div className="lg:h-850 md:h-680 h-730 pt-2 flex flex-col  items-center">
           <h1 className="lg:text-[40px] md:text-3xl text-[32px] text-center text-[#FFF5B9] lg:pt-36 pt-12 font-Cormorant-upright px-6 leading-12">
             Together with our families,
           </h1>
@@ -288,8 +288,11 @@ export default function CoupleMessage() {
             <h2 className="lg:text-3xl md:text-xl text-[16px] text-[#FFF5B9] font-Cormorant-upright leading-tight">
               Click on the Whatsapp icon to RSVP
             </h2>
-            <div className="flex md:gap-4 gap-2 justify-center items-start md:items-center md:mt-4">
-              <a href="https://wa.me/9899696150" target="_blank">
+            <div className="flex flex-col items-center md:gap-4 gap-1">
+  
+            {/* <div className="flex md:gap-4 gap-2 justify-start items-start md:items-center md:mt-4"> */}
+            <div className="flex items-center  md:w-70 w-40 md:mt-4 mt-2 md:gap-4 gap-2 ">
+              <a href="https://wa.me/9837410172" target="_blank">
                 <img
                   src="/assets/whatsapp_n.png"
                   alt=""
@@ -298,12 +301,12 @@ export default function CoupleMessage() {
               </a>
 
               <h2 className="lg:text-3xl md:text-xl text-[16px] text-[#FFF5B9] font-Cormorant-upright leading-tight">
-                Ashok Kharbanda
+                Rishi lala Chawla
               </h2>
             </div>
 
-            <div className="flex md:gap-4 gap-2 justify-center items-start md:items-center md:mt-4">
-              <a href="https://wa.me/7838692244" target="_blank">
+             <div className="flex items-center gap-4 md:w-70 w-40">
+              <a href="https://wa.me/9837407472" target="_blank">
                 <img
                   src="/assets/whatsapp_n.png"
                   alt=""
@@ -312,9 +315,24 @@ export default function CoupleMessage() {
               </a>
 
               <h2 className="lg:text-3xl md:text-xl text-[16px] text-[#FFF5B9] font-Cormorant-upright leading-tight">
-                Rohan Kharbanda
+                Naveen Chawla
               </h2>
             </div>
+
+ <div className="flex items-center gap-4 md:w-70 w-40">
+              <a href="https://wa.me/99713134722" target="_blank">
+                <img
+                  src="/assets/whatsapp_n.png"
+                  alt=""
+                  className="lg:h-10 lg:w-10 h-4 w-4 mt-1 md:mt-0"
+                />
+              </a>
+
+              <h2 className="lg:text-3xl md:text-xl text-[16px] text-[#FFF5B9] font-Cormorant-upright leading-tight">
+                Alka chawla
+              </h2>
+            </div>
+</div>
           </div>
         </div>
       </div>
