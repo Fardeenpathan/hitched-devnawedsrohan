@@ -14,12 +14,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://hitched-rohanclientdemo.vercel.app/"),
+  metadataBase: new URL("https://hitched-devnawedsrohan.vercel.app/"),
 
   openGraph: {
     title: "Devna & Rohan",
     description: "We invite you to celebrate our forever",
-    url: "https://hitched-rohanclientdemo.vercel.app/",
+    url: "https://hitched-devnawedsrohan.vercel.app/",
     siteName: "InviteArc",
     images: [
       {
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
 
  other: {
-    "og:image:secure_url": "https://hitched-rohanclientdemo.vercel.app/og.jpg",
+    "og:image:secure_url": "https://hitched-devnawedsrohan.vercel.app/og.jpg",
     "og:image:type": "image/jpeg",
   },
 
