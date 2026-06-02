@@ -44,7 +44,7 @@ export default function MarriageCountdown() {
                         Filled with happiness and heartfelt emotions,<br/> Lakhan Chawla, Naveen & Neetu Chawla, along with Vardaan & Sanskriti Chawla, <br/> cordially invite you to celebrate love, togetherness, and the beginning of a beautiful new journey.
                     </p>
                     <div className="flex flex-col-1 gap-4 justify-center items-center mt-4">
-                       <a href="https://www.instagram.com/makeupbydevnachawla/" target="_blank"><img src="/assets/instagram_w.png" alt="" className="h-10 w-10"/></a>
+                       <a href="https://www.instagram.com/theinvitearc/" target="_blank"><img src="/assets/instagram_w.png" alt="" className="h-10 w-10"/></a>
                         
                     </div>
                     <p className="lg:text-[22px] text-xl text-[#FFF5B9] mt-6 text-center font-Cormorant-upright">
