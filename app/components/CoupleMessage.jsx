@@ -305,7 +305,7 @@ export default function CoupleMessage() {
               </h2>
             </div>
 
-             <div className="flex items-center gap-4 md:w-70 w-40">
+             <div className="flex items-center md:gap-4 gap-2 md:w-70 w-40">
               <a href="https://wa.me/9837407472" target="_blank">
                 <img
                   src="/assets/whatsapp_n.png"
@@ -314,12 +314,12 @@ export default function CoupleMessage() {
                 />
               </a>
 
-              <h2 className="lg:text-3xl md:text-xl text-[16px] text-[#FFF5B9] font-Cormorant-upright leading-tight">
+              <h2 className="lg:text-3xl md:text-xl text-[16px] text-[#FFF5B9] font-Cormorant-upright leading-tight m-0 p-0">
                 Naveen Chawla
               </h2>
             </div>
 
- <div className="flex items-center gap-4 md:w-70 w-40">
+ <div className="flex items-center md:gap-4 gap-2 md:w-70 w-40">
               <a href="https://wa.me/99713134722" target="_blank">
                 <img
                   src="/assets/whatsapp_n.png"
