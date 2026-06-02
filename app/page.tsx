@@ -356,7 +356,7 @@ export default function Home() {
           </div> */}
 
 
-          <div className="flex justify-center mt-20">
+          <div className="flex justify-center mt-20 md:mb-30 3xl:mb-100">
             <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-3 lg:gap-32 gap-16 ">
               {events.map((event, i) => (
                 <div key={i} className="flex flex-col items-center text-center">
