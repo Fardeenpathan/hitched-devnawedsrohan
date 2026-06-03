@@ -301,7 +301,7 @@ export default function CoupleMessage() {
               </a>
 
               <h2 className="lg:text-3xl md:text-xl text-[16px] text-[#FFF5B9] font-Cormorant-upright leading-tight">
-                Rishi lala Chawla
+                Rishi lal Chawla
               </h2>
             </div>
 
