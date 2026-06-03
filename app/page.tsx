@@ -243,7 +243,7 @@ export default function Home() {
             <span className="font-cormorant [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)] font-semibold">
               Devna Chawla
             </span>
-            <span className="text-[12px] sm:text-3xl tracking-[10px] font-cormorant [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)]  font-medium">WEDS</span>
+            <span className="text-[12px] sm:text-3xl tracking-[10px] font-cormorant [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)]  font-semibold">WEDS</span>
             <span className="font-cormorant [text-shadow:2px_2px_4px_rgba(0,0,0,0.4)]  font-semibold">Rohan Kharbanda</span>
             {/* <p className="font-Cormorant-upright lg:text-4xl md:text-2xl text-[20px] font-bold md:mt-4">
               #RoSaysIDee
